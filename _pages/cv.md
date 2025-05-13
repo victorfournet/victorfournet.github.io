@@ -13,6 +13,6 @@ See a complete CV [here](CV.pdf).
 **Education**
 
 
-- 2021 - 2024: PhD student in LJLL, Sorbonne Université, Paris, France
+- 2021 - 2025: PhD student in LJLL, Sorbonne Université, Paris, France
 - 2019 - 2021: Master in mathematics, Sorbonne Université, Paris, France
 - 2015 - 2018: Double Major in mathematics and physics, Sorbonne Université, France
