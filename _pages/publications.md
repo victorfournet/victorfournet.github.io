@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Since 2025, I am a post-doctoral researcher at [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/12411/garching) in Garching under the supervision of [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin). 
+Since February 2025, I am a post-doctoral researcher at [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/12411/garching) in Garching under the supervision of [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin). 
 
 I am interested in the analysis and the numerical discretisation of equations coming from statistical mechanics and fluid mechanics. 
 
