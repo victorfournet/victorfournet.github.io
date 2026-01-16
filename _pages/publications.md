@@ -9,7 +9,9 @@ nav_order: 1
 
 Since 2025, I am a post-doctoral researcher at [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/12411/garching) in Garching under the supervision of [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin). 
 
-I am interested in analysis and the numerical discretisation of equations coming from statistical mechanics and fluid mechanics. 
+I am interested in the analysis and the numerical discretisation of equations coming from statistical mechanics and fluid mechanics. 
+
+Recently, I have been interested in numerical schemes coupling classical methods with neural networks.
 
 **Papers and Preprints:**
 
@@ -32,14 +34,21 @@ model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pi
 **Proceedings:**
 
 - **Investigation on the stability in a thick spray model**. *Accepted for publication in ESAIM: Proceedings and Surveys,* 2024. [HAL version](https://hal.science/hal-04586793). 
-- **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thicksprays**. *Accepted in 33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*.
+- **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thick sprays**. *Accepted in 33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*.
+
+**Upcoming:**
+
+- July 2026 **WCCM-ECCOMAS 2026**, Munich, Germany.
+- March 2026 **SIAM Conference on Parallel Processing for Scientific Computing**, Berlin, Germany.
 
 **Talks:**
 
+- January 2026 **Journées Jeunes EDPistes 2026**, Paris Dauphine, France.
+- May 2025 **SMAI 2025**, Carcans Maubuisson, France
 - June 2024 **NMPP Seminar**, Max Planck Institute for Plasma Physics, Garching, Germany.
 - June 2024 **RGD 2024**, Gottingen, Germany.
 - May 2024 **CANUM 2024**, Le bois plage en Ré.
-- November 2023 **PhD student's seminar**, Sorbonne Université.
+- November 2023 **PhD student's seminar**, Sorbonne Université, Paris, France.
 - November 2023 **Numkin 2023**,Max Planck Institute for Plasma Physics, Garching, Germany.
 - September 2023 **Conference for young researcher in Mathematics and Applications 2023**, Gif-sur-Yvette, France.
 - May 2023 - **SMAI 2023**, Pointe à Pitre, Guadeloupe.
