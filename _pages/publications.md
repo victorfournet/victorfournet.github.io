@@ -34,7 +34,7 @@ model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pi
 **Proceedings:**
 
 - **Investigation on the stability in a thick spray model**. *Accepted for publication in ESAIM: Proceedings and Surveys,* 2024. [HAL version](https://hal.science/hal-04586793). 
-- **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thick sprays**. *Accepted in 33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*.
+- **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet. *Accepted in 33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*, 2024. [HAL version](https://hal.science/hal-05461660).
 
 **Upcoming:**
 
