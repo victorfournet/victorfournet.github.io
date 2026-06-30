@@ -15,10 +15,11 @@ Recently, I have been interested in numerical schemes coupling classical methods
 
 **Papers and Preprints:**
 
-- **Landau damping in mixed hyperbolic-kinetic systems and thick sprays** - with Dongfen Bian, [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and [Emmanuel Grenier](https://perso.ens-lyon.fr/egrenier/). *Preprint May 2025*, [arXiv:2505.02295](https://arxiv.org/abs/2505.02295).  
+- **Non-linear control variate in δf particle-in-cell methods using symplectic neural networks** - with [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin), [Emmanuel Franck](https://irma.math.unistra.fr/~franck/) and [Victor Michel-Dansac](https://irma.math.unistra.fr/~micheldansac/index_en.html). *Preprint June 2026*, [arXiv:2606.30622](https://arxiv.org/abs/2606.30622), [Hal version](https://hal.science/hal-05673761).
 
-- **Construction, analysis and implementation of two nodal finite volume schemes for the P_N
-model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pino. *Accepted for publication in SMAI-Journal of Computational Mathematics* in 2025. [HAL version](https://cea.hal.science/cea-04519862). 
+- **Landau damping in mixed hyperbolic-kinetic systems and thick sprays** - with Dongfen Bian, [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and [Emmanuel Grenier](https://perso.ens-lyon.fr/egrenier/). *Kinetic and related models*, 2026, 23: 91-103. doi: [10.3934/krm.2026015](https://www.aimsciences.org//article/doi/10.3934/krm.2026015).  [arXiv:2505.02295](https://arxiv.org/abs/2505.02295).  
+
+- **Construction, analysis and implementation of two nodal finite volume schemes for the P_N model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pino. *SMAI-Journal of Computational Mathematics*, Volume 11 (2025), pp. 39-84. doi: [10.5802/smai-jcm.119](https://smai-jcm.centre-mersenne.org/articles/10.5802/smai-jcm.119/). [HAL version](https://cea.hal.science/cea-04519862). 
 
 - **Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet. *Communications in Mathematical Sciences*, 23: 235-258, 2025. [HAL version](https://hal.science/hal-04265990v1).
 
@@ -33,27 +34,30 @@ model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pi
 
 **Proceedings:**
 
-- **Investigation on the stability in a thick spray model**. *Accepted for publication in ESAIM: Proceedings and Surveys,* 2024. [HAL version](https://hal.science/hal-04586793). 
-- **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet. *Accepted in 33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*, 2024. [HAL version](https://hal.science/hal-05461660).
+- **Investigation on the stability in a thick spray model**. *ESAIM: Proceedings and Surveys* 2024. [HAL version](https://hal.science/hal-04586793). 
+- **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet. *33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*, 2024. [HAL version](https://hal.science/hal-05461660).
 
 **Upcoming:**
 
+- July 2026 **Workshop Fluid Dynamics, Singularities, and AI-Driven Discovery**, Speinshart, Germany.
 - July 2026 **WCCM-ECCOMAS 2026**, Munich, Germany.
-- March 2026 **SIAM Conference on Parallel Processing for Scientific Computing**, Berlin, Germany.
+
 
 **Talks:**
 
-- January 2026 **Journées Jeunes EDPistes 2026**, Paris Dauphine, France.
-- May 2025 **SMAI 2025**, Carcans Maubuisson, France
-- June 2024 **NMPP Seminar**, Max Planck Institute for Plasma Physics, Garching, Germany.
-- June 2024 **RGD 2024**, Gottingen, Germany.
-- May 2024 **CANUM 2024**, Le bois plage en Ré.
-- November 2023 **PhD student's seminar**, Sorbonne Université, Paris, France.
-- November 2023 **Numkin 2023**,Max Planck Institute for Plasma Physics, Garching, Germany.
-- September 2023 **Conference for young researcher in Mathematics and Applications 2023**, Gif-sur-Yvette, France.
+- June 2026 - **CANUM 2026**, Saint-Jacut-de-la-Mer, France.
+- March 2026 - **SIAM Conference on Parallel Processing for Scientific Computing**, Berlin, Germany.
+- January 2026 - **Journées Jeunes EDPistes 2026**, Paris Dauphine, France.
+- May 2025 - **SMAI 2025**, Carcans Maubuisson, France.
+- June 2024 - **NMPP Seminar**, Max Planck Institute for Plasma Physics, Garching, Germany.
+- June 2024 - **RGD 2024**, Gottingen, Germany.
+- May 2024 - **CANUM 2024**, Le bois plage en Ré.
+- November 2023 - **PhD student's seminar**, Sorbonne Université, Paris, France.
+- November 2023 - **Numkin 2023**,Max Planck Institute for Plasma Physics, Garching, Germany.
+- September 2023 - **Conference for young researcher in Mathematics and Applications 2023**, Gif-sur-Yvette, France.
 - May 2023 - **SMAI 2023**, Pointe à Pitre, Guadeloupe.
 - December 2022 - **Workshop Kinetic and hyperbolic equations: modeling, analysis and numerics**, Institut de Mathématiques de Toulouse, Toulouse, France. 
-- June 2022 - **CANUM** (Poster), Evian les Bains, France
+- June 2022 - **CANUM 2022** (Poster), Evian les Bains, France
 
 
 
