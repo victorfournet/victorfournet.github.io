@@ -37,14 +37,16 @@ Recently, I have been interested in numerical schemes coupling classical methods
 - **Investigation on the stability in a thick spray model**. *ESAIM: Proceedings and Surveys* 2024. [HAL version](https://hal.science/hal-04586793). 
 - **A coupled Semi-Lagrangian/Finite Volume scheme to deal with close-packing limit in thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet. *33TH INTERNATIONAL SYMPOSIUM ON RAREFIED GAS DYNAMICS Proceedings*, 2024. [HAL version](https://hal.science/hal-05461660).
 
-**Upcoming:**
+<!-- **Upcoming:** -->
 
-- July 2026 **Workshop Fluid Dynamics, Singularities, and AI-Driven Discovery**, Speinshart, Germany.
-- July 2026 **WCCM-ECCOMAS 2026**, Munich, Germany.
+
 
 
 **Talks:**
 
+
+- July 2026 **Workshop Fluid Dynamics, Singularities, and AI-Driven Discovery**, Speinshart, Germany.
+- July 2026 **WCCM-ECCOMAS 2026**, Munich, Germany.
 - June 2026 - **CANUM 2026**, Saint-Jacut-de-la-Mer, France.
 - March 2026 - **SIAM Conference on Parallel Processing for Scientific Computing**, Berlin, Germany.
 - January 2026 - **Journées Jeunes EDPistes 2026**, Paris Dauphine, France.
