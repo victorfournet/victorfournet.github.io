@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 
-My research is concerned with kinetic equations. I am interested both in the mathematical analysis of such equations and in their numerical discretisation.
+My research focuses on kinetic equations and fluid equations. I am interested both in the mathematical analysis of such equations and in their numerical discretisation.
 
 On the analysis side, the questions that interest me are the well-posedness of these models, the long-time behaviour of their solutions, and the stability or instability of their equilibria.
 
