@@ -7,11 +7,15 @@ nav: true
 nav_order: 1
 ---
 
-I work on kinetic equations and their coupling with fluid models.
+## Research interests
 
-During my PhD I worked on thick spray models, in which a Vlasov equation for a cloud of droplets is coupled to the Euler equations of the carrier fluid. In these models the volume fraction occupied by the droplets is not negligible, which makes the coupling singular and difficult to handle, both for the analysis and for the numerics. I worked on the well-posedness of such models, on the stability of their solutions and on their numerical discretisation. I also worked on finite volume schemes on general meshes, in the context of radiative transfer.
+My research is concerned with kinetic equations. I am interested both in the mathematical analysis of such equations and in their numerical discretisation.
 
-I am now working on numerical methods for plasmas, and more generally on high-dimensional problems, such as kinetic equations, for which classical discretisations can be prohibitively expensive. In my postdoc, I am interested in the design and analysis of structure-preserving methods based on neural networks, and in their application to gyrokinetic models.
+On the analysis side, the questions that interest me are the well-posedness of these models, the long-time behaviour of their solutions, and the stability or instability of their equilibria.
+
+On the numerical side, I work on the design and the analysis of structure-preserving schemes that reproduce the properties of the continuous model at the discrete level: positivity of the density, conservation of invariants, and bounds on quantities that must remain in a given range. 
+
+Recently, I have been interested in numerical schemes that remain efficient in high dimension. In particular, I am working on methods that couple classical numerical methods with neural networks, and on their application to gyrokinetic models.
 
 ---
 
