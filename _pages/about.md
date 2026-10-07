@@ -2,7 +2,6 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href="https://www.ipp.mpg.de/12411/garching">Max Planck Institute for Plasma Physics</a>, Garching.
 
 profile:
   align: right
