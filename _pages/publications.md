@@ -7,7 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-## Research interests
 
 My research is concerned with kinetic equations. I am interested both in the mathematical analysis of such equations and in their numerical discretisation.
 
