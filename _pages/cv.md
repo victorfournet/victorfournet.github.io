@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/
+permalink: /cv/
 title: Short CV
 nav: true
 nav_order: 3
@@ -8,7 +8,7 @@ cv_pdf: CV.pdf
 ---
 
 Born in Paris (France) on the 16th of October 1997 - French citizen.
-See a complete CV [here](CV.pdf).
+See a complete CV [here]({{ site.baseurl }}/assets/pdf/CV.pdf).
 
 **Education**
 

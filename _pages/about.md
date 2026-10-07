@@ -2,16 +2,16 @@
 layout: about
 title: Home
 permalink: /
-<!-- subtitle: <a href='#'>Affiliations</a>. Address. . Moto. Etc. -->
+subtitle: <a href="https://www.ipp.mpg.de/12411/garching">Max Planck Institute for Plasma Physics</a>, Garching.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <!-- <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p> -->
+    <p>Max Planck Institute for Plasma Physics</p>
+    <p>Boltzmannstraße 2, 85748 Garching</p>
+    <p>Germany</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,15 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a post-doctoral researcher at [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/12411/garching) in Garching under the supervision of Martin Campos Pinto. I am working in the field of mathematical and numerical analysis of partial differential equations, with special interest in equations coming from statistical mechanics and fluid mechanics.
+I am an applied mathematician working in the field of partial differential equations. I am currently a post-doctoral researcher at the [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/12411/garching) in Garching, where I work with [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin).
 
-I did my PhD at [CEA](https://www.cea.fr/english/Pages/Welcome.aspx) in Bruyères-le-Châtel and at [Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) (Sorbonne Université) in Paris under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and Christophe Buet (CEA).
+I am interested in the analysis and the numerical approximation of kinetic and fluid equations, with an emphasis on structure-preserving schemes that are efficient in high dimensions.
+
+I did my PhD at [CEA](https://www.cea.fr/english/Pages/Welcome.aspx) in Bruyères-le-Châtel and at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) (Sorbonne Université) in Paris, under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and [Christophe Buet](https://www-lihpc.cea.fr/en/team/permanents/buet.html) (CEA).
 
 E-mail: victor.fournet(at)ipp.mpg.de
-
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
