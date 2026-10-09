@@ -12,13 +12,16 @@ My research focuses on kinetic equations and fluid equations. I am interested bo
 
 On the analysis side, the questions that interest me are the well-posedness of these models, the long-time behaviour of their solutions, and the stability or instability of their equilibria.
 
-On the numerical side, I work on the design and the analysis of structure-preserving schemes that reproduce the properties of the continuous model at the discrete level: positivity of the density, conservation of invariants, and bounds on quantities that must remain in a given range. 
+On the numerical side, I work on the design and the analysis of structure-preserving schemes that reproduce the properties of the continuous model at the discrete level: positivity, conservation of invariants, and bounds on quantities that must remain in a given range. 
 
 Recently, I have been interested in numerical schemes that remain efficient in high dimension. In particular, I am working on methods that couple classical numerical methods with neural networks, and on their application to gyrokinetic models.
 
 ---
 
 ## Papers and preprints
+
+
+- **A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport-dominated problems** - with [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin), [Emmanuel Franck](https://irma.math.unistra.fr/~franck/), [Philipp Krah](https://philipp137.github.io) and [Victor Michel-Dansac](https://irma.math.unistra.fr/~micheldansac/index_en.html). *Preprint October 2026*. [ 	arXiv:2610.12395](https://arxiv.org/abs/2610.12395).
 
 - **Non-linear control variate in δf particle-in-cell methods using symplectic neural networks** — with [Martin Campos Pinto](https://www.ipp.mpg.de/5175712/campos_pinto_martin), [Emmanuel Franck](https://irma.math.unistra.fr/~franck/) and [Victor Michel-Dansac](https://irma.math.unistra.fr/~micheldansac/index_en.html). *Preprint, June 2026*. [arXiv:2606.30622](https://arxiv.org/abs/2606.30622), [HAL version](https://hal.science/hal-05673761).
 
