@@ -8,13 +8,15 @@ nav_order: 1
 ---
 
 
-My research focuses on kinetic equations and fluid equations. I am interested both in the mathematical analysis of such equations and in their numerical discretisation.
+My research focuses on kinetic equations and fluid equations. I am interested both in the mathematical analysis of such equations and in their numerical discretisation, with a particular interest in how physical constraints and structures can be enforced in the models and preserved by numerical methods.
 
-On the analysis side, the questions that interest me are the well-posedness of these models, the long-time behaviour of their solutions, and the stability or instability of their equilibria.
+On the analysis side, the questions that interest me are the well-posedness of these models, the long-time behaviour of their solutions, and the stability or instability of their equilibria. I am particularly interested in congestion phenomena, where a density must remain below a maximal value, and in how they can be described at the kinetic level, for instance in dense particle flows.
 
 On the numerical side, I work on the design and the analysis of structure-preserving schemes that reproduce the properties of the continuous model at the discrete level: positivity, conservation of invariants, and bounds on quantities that must remain in a given range. 
 
 Recently, I have been interested in numerical schemes that remain efficient in high dimension. In particular, I am working on methods that couple classical numerical methods with neural networks, and on their application to gyrokinetic models.
+
+**Keywords:** kinetic equations, Vlasov–fluid systems, congestion, structure-preserving schemes,  semi-Lagrangian methods, Finite-Volume scheme, neural networks for PDEs, plasma physics, gyrokinetics.
 
 ---
 
